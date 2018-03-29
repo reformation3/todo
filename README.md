@@ -1,2 +1,3 @@
 # todo
-Follow the course
+
+Follow the course project
